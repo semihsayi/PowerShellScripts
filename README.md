@@ -2,7 +2,7 @@
 
 This repository hosts some powershell scripts used in the real world
 
-## Script categories
+## Contents
 
   - Active directory user scripts
   - Active directory organizational unit scripts
