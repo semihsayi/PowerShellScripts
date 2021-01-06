@@ -1,1 +1,1 @@
-Get-ADUser -Identity semih.sayi -Properties * 
+Get-ADUser -Identity semih.sayi -Properties *
