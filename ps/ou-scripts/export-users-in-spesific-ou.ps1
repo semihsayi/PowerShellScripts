@@ -1,0 +1,1 @@
+Get-ADUser -Filter * -SearchBase "OU=xDC=elazigdh,DC=gov,DC=tr" -properties * | select * | export-csv ou.csv -notypeinformation

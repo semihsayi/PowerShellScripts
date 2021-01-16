@@ -1,0 +1,1 @@
+Get-ADDomainController –Filter * | Select Hostname, IsGlobalCatalog
